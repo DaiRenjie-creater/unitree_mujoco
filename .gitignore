@@ -4,3 +4,4 @@
 **/log/
 **/install/
 simulate/mujoco
+/unitree_robots/go2w
